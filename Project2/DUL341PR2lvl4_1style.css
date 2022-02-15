@@ -1,0 +1,145 @@
+body{
+    text-align:center;
+    background-color: darkslategrey;
+}
+/*Grandma Thelma told me*/
+.Line1 {
+    color:rgb(225, 232, 243);
+    font-family: Arial;
+    font-size: 20px;
+    letter-spacing: .2em;
+}
+/*If I slept on my back*/
+.Line2{
+    font-family:Arial;
+    color:rgb(225, 232, 243);
+    font-size:20px;
+    letter-spacing:.5em;
+}
+/*A hag would ride me and I'd never return, so I trained*/
+.Line3{
+    font-family:Arial;
+    color:rgb(225, 232, 243);
+    Font-size: 20px ;
+    letter-spacing: .02em;
+}
+/*my body to sleep on my stomach. Even now,*/
+.Line4{
+    font-family:Arial;
+    color:rgb(225, 232, 243);
+    Font-size: 20px ;
+    letter-spacing: .2em;
+
+}
+/*if I wake up cold, I open my mouth*/
+.Line5{
+    font-family:Arial;
+    color:rgb(225, 232, 243);
+    Font-size: 26px ;
+    letter-spacing: .22em;
+}
+/*and repeat the 23rd Psalm.*/
+.Line6{
+    font-family:Arial;
+    color:rgb(225, 232, 243);
+    Font-size: 50px ;
+    letter-spacing: .03em;
+
+}
+/*Grandma Thelma told me*/
+.Line7{
+    font-family:Arial;
+    color:rgb(225, 232, 243);
+    Font-size: 42px ;
+    letter-spacing: .24em;
+
+}
+/*I might see a plat-eye*/
+.Line8{
+    font-family:Arial;
+    font-weight:bolder;
+    color:rgb(225, 232, 243);
+    Font-size: 58px ;
+    letter-spacing: .11em;
+
+}
+/*when I was seven years old. I could imagine*/
+.Line9{
+    font-family:Arial;
+    color:rgb(225, 232, 243);
+    Font-size: 32px ;
+    letter-spacing: .1em;
+    
+}
+/*cypress knees growing full bodies*/
+.Line10{
+    font-family:Arial;
+    color:rgb(225, 232, 243);
+    Font-size: 52px ;
+
+}
+/*to walk the hungry road, an entire body*/
+.Line11{
+    font-family:Arial;
+    color:rgb(225, 232, 243);
+    Font-size: 22px ;
+    letter-spacing: .45em;
+
+}
+/*of eye nicknamed Plat.*/
+.Line12{
+    font-family:Arial;
+    color:rgb(225, 232, 243);
+    Font-size: 53px ;
+    letter-spacing: .19em;
+
+}
+/*Grandma Thelma told me*/
+.Line13{
+    font-family:Arial;
+    color:rgb(225, 232, 243);
+    Font-size: 60px ;
+    font-weight: bolder;
+
+}
+/*I’d feel welcomed by the eye.*/
+.Line14{
+    font-family:Arial;
+    color:rgb(225, 232, 243);
+    Font-size: 42px ;
+    Font-style: italic;
+    letter-spacing: .1em;
+
+}
+/*I’d be made to feel safe and loved,*/
+.Line15{
+    font-family:Arial;
+    color:rgb(225, 232, 243);
+    Font-size: 24px ;
+    letter-spacing: .3em;
+
+}
+/*but if I looked directly into that big white-bodied cornea,*/
+.Line16{
+    font-family:Arial;
+    color:rgb(225, 232, 243);
+    Font-size: 18px ;
+    letter-spacing: .1em;
+
+}
+/*I’d forget where I came from.*/
+.Line17 {
+    font-family:Arial;
+    color:rgb(225, 232, 243);
+    Font-size: 28px ;
+    letter-spacing: .1em;
+
+}
+/*I’d be disappeared.*/
+.Line18 {
+    font-family:Arial;
+    color:rgb(225, 232, 243);
+    Font-size: 30px ;
+
+
+}

@@ -1,0 +1,35 @@
+body {
+        background: rgb(206, 197, 197);
+}
+h1 {
+    color:rgb(199, 12, 59);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2 {
+    color:rgb(138, 6, 57); 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3 {
+    color:rgb(49, 2, 18);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style:italic
+}
+h4 {
+    color:rgb(49, 2, 18);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a {
+
+}
+img {
+
+}
+ul {
+    font-family: Georgia;
+    color:blue;
+    font-weight: normal;
+}
+li {
+    
+
+}

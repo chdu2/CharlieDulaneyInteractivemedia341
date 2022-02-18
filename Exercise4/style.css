@@ -1,0 +1,105 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: black;
+}
+
+.canvas {
+  width: 900px;
+  height: 556px;
+  margin: 100px auto;
+  background: teal;
+  position: relative;
+  z-index: 0;
+}
+.container_mail{
+  width: 600px;
+  height:400px;
+  margin: 170px 200px auto;
+  position: absolute;
+    
+}
+
+
+.mail_top{
+  Width:400px;
+  Height:10px;
+  background-color: aliceblue;
+  margin-top: 35px;
+  margin-left:-2px;
+  Position:absolute;
+}
+.mail_right{
+  width:400px;
+  height:200px;
+  background-color: rgb(77, 77, 35);
+  margin-top: 58px;
+  margin-left: 5px;
+  Position:absolute;
+  
+} 
+.mail_left{
+  width:10px;
+  height:200px;
+  background-color: azure;
+  margin-top: 155px;
+  Margin-left: 21px;
+  Position:absolute;
+}
+.flap{
+  width:0;
+  height:0;
+  border-left:230px solid transparent;
+  border-right: 175px solid transparent;
+  border-top:130px solid red;
+  margin-top:50px;
+}
+
+.container_mailbox{
+  width:500px;
+  height:500px;
+  background-color: aliceblue;
+  margin-left: 400px;
+  position: absolute;
+  z-index: -1;
+}
+.mailbox_side{
+  width:300px;
+  height:100px;
+  background-color: brown;
+  position:absolute;
+  margin-left: 200;
+  z-index: 1;
+}
+.mailbox_opening{
+  margin-left:10px;
+}
+.mailbox_circle{
+  width: 290px;
+  height:290px;
+  border-radius: 50%;
+  background-color: blue;
+  margin-top: 65px;
+  position:absolute;
+}
+.mailbox_rectangle{
+  width: 290px;
+  height: 250px;
+  background-color: blue;
+  margin-top:210px;
+  position:absolute;
+}
+.isometric_top{
+  transform: rotate(-30deg) skew(30deg);
+}
+
+.isometric_right{
+  transform: rotate(-30deg) skew(-30deg);
+
+}
+.isometric_left{
+  transform: rotate(30deg) skew(30deg);
+
+}

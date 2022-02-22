@@ -1,0 +1,29 @@
+
+
+
+.container{
+    margin:100px auto;
+    width: 90%;
+
+}
+
+.A{
+height:400;
+width:20%;
+float:left;
+margin-left:25;
+}
+
+.B{
+    height:400;
+    width:20%;
+    float:left;
+    margin-left:25;
+}
+
+.C{
+    height:400;
+    width:20%;
+    float:left;
+    margin-left:25;
+}

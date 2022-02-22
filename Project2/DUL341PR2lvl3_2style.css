@@ -1,0 +1,17 @@
+div{
+    float:left;
+}
+
+.rotate90{
+    transform: rotate(90deg);
+
+}
+
+.rotate180{
+    transform: rotate(180deg);
+    float:right;
+}
+.rotate270{
+    transform: rotate(270deg);
+
+}

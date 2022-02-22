@@ -9,21 +9,25 @@
 
 .A{
 height:400;
-width:20%;
+width:30%;
 float:left;
 margin-left:25;
 }
 
 .B{
     height:400;
-    width:20%;
+    width:30%;
     float:left;
     margin-left:25;
 }
 
 .C{
     height:400;
-    width:20%;
+    width:30%;
     float:left;
     margin-left:25;
+}
+
+.header{
+    height:30px;
 }

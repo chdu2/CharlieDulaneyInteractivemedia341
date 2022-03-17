@@ -1,28 +1,18 @@
 
 
-.container{
-    margin:100px auto;
-    width: 90%;
 
-}
 
 .A{
-height:400;
-width:20%;
-float:left;
-margin-left:25;
+width:300px;
+margin-left:100px;
 }
 
 .B{
-    height:400;
-    width:20%;
-    float:left;
-    margin-left:25;
+    
+    width:300px;
+    margin-left:40%;
 }
-
 .C{
-    height:400;
-    width:20%;
-    float:left;
-    margin-left:25;
+    
+    width:10%;
 }

@@ -1,3 +1,6 @@
+
 $(document).ready(function(){
-    alert("sup")
+$("button").click(function(){
+    $("button2").fadeOut();
+  });
 });
